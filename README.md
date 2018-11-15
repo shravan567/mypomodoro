@@ -1,0 +1,2 @@
+# mypomodoro
+Simple pomodoro  app
